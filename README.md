@@ -46,9 +46,15 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+## Support Removal Process
+![EMPD experiment4 record5a](https://github.com/Hashwatha/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231431/f149dcf3-d668-44fb-a7f0-b0ac481c10b7)
+## UV Curing of 3D printed part
+![EMPD experiment4 record5b](https://github.com/Hashwatha/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231431/746925df-5944-4bde-bd94-b62bd5498c7e)
+## Heat Treatment of 3D printed part
+![EMPD experiment4 record5c](https://github.com/Hashwatha/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231431/98df8f44-b739-456a-b264-fed774ccdf50)
 
-### Name:
-### Register Number:
+### Name: M.Hashwatha
+### Register Number: 23012398
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
